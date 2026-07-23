@@ -3,7 +3,3 @@ As part of an ENGR 96 class (Underwater Robotics), I was Project Manager of a fo
 
 Video of project:
 https://youtu.be/jcJNy5CFNGY
-
-3D files can be found in the CAD-files branch.
-
-Pictures can be found in the pictures branch.
